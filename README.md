@@ -1,6 +1,6 @@
-<h1 align='center'><img src='assets/fonts/logo.svg'></img></h1>
+<h1 align='center'><img src='https://user-images.githubusercontent.com/101475826/162530416-bdeed9a6-c6c6-4750-8bd3-b20dc4b58c51.svg'></h1>
 
-<img src='assets/fonts/homepage.jpg'>
+<img src='https://user-images.githubusercontent.com/101475826/162530580-c14f5142-39e5-4bbe-a44d-b7ef9a69f690.jpg'>
 
 <h2 align='center'><a href='https://badboyorg.github.io/beautysalon/'>See the website</a></h2>
 
